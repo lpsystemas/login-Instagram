@@ -1,0 +1,28 @@
+@media (max-width: 1024px){
+    .container-principal{
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px){
+
+    body{
+        background-color: #ffffff;
+    } 
+
+    .container-principal{
+        width: 90%;
+    }
+
+    .foto-celular{
+        display: none;
+    }
+
+    .grupo-login{
+        width: 100%;
+    }
+
+    .grupo{
+        border: 1px solid transparent;
+    }
+}
